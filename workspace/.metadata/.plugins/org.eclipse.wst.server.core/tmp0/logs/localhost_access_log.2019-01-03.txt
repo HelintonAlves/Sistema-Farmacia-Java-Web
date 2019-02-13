@@ -1,0 +1,17 @@
+127.0.0.1 - - [03/Jan/2019:11:26:55 -0200] "GET / HTTP/1.1" 404 1036
+127.0.0.1 - - [03/Jan/2019:11:37:56 -0200] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:38:37 -0200] "GET /Farmacia/faces/pages/principal.xhtml HTTP/1.1" 200 5532
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:38:37 -0200] "GET /Farmacia/faces/javax.faces.resource/styles.css;jsessionid=10F53D8DD07269830BBE6C31052C585D?ln=css HTTP/1.1" 200 258
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:38:37 -0200] "GET /Farmacia/faces/javax.faces.resource/theme.css?ln=primefaces-bluesky HTTP/1.1" 200 18328
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:38:37 -0200] "GET /Farmacia/faces/javax.faces.resource/layout/layout.css;jsessionid=10F53D8DD07269830BBE6C31052C585D?ln=primefaces&v=4.0 HTTP/1.1" 200 542
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:38:37 -0200] "GET /Farmacia/faces/javax.faces.resource/primefaces.js;jsessionid=10F53D8DD07269830BBE6C31052C585D?ln=primefaces&v=4.0 HTTP/1.1" 200 277201
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:38:37 -0200] "GET /Farmacia/faces/javax.faces.resource/jquery/jquery.js;jsessionid=10F53D8DD07269830BBE6C31052C585D?ln=primefaces&v=4.0 HTTP/1.1" 200 105493
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:38:37 -0200] "GET /Farmacia/faces/javax.faces.resource/layout/layout.js;jsessionid=10F53D8DD07269830BBE6C31052C585D?ln=primefaces&v=4.0 HTTP/1.1" 200 87653
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:38:37 -0200] "GET /Farmacia/faces/javax.faces.resource/jquery/jquery-plugins.js;jsessionid=10F53D8DD07269830BBE6C31052C585D?ln=primefaces&v=4.0 HTTP/1.1" 200 220747
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:38:37 -0200] "GET /Farmacia/faces/javax.faces.resource/primefaces.css;jsessionid=10F53D8DD07269830BBE6C31052C585D?ln=primefaces&v=4.0 HTTP/1.1" 200 53386
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:38:37 -0200] "GET /Farmacia/faces/javax.faces.resource/images/ui-icons_72a7cf_256x240.png?ln=primefaces-bluesky HTTP/1.1" 200 5355
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:38:37 -0200] "GET /favicon.ico HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:38:40 -0200] "GET /Farmacia/faces/javax.faces.resource/images/default.png?ln=primefaces-bluesky HTTP/1.1" 200 145
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:38:40 -0200] "GET /Farmacia/faces/javax.faces.resource/images/ui-icons_3d80b3_256x240.png?ln=primefaces-bluesky HTTP/1.1" 200 5355
+127.0.0.1 - - [03/Jan/2019:11:41:08 -0200] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:41:08 -0200] "GET /Farmacia/WEB-INF/classes/br/com/farmacia/factory/ConexaoFactory.java HTTP/1.1" 404 1013
